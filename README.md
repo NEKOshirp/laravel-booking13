@@ -1,8 +1,4 @@
-# Laravel 8 - Booking Application
 
-## Screenshots
-
-![preview img](/preview.png)
 
 ## Run Locally
 
